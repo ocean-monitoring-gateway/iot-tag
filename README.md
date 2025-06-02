@@ -9,14 +9,11 @@ For more info on the device and a detailed code description, visit the **[projec
 
 ## Code Release 
 
-The active branch is the branch `master`
+The active branch is the branch `main`
 
-List of code releases that serve for experimentations referencement
-
-**Release : [version-MEEpaper2024](https://gitlab.ifremer.fr/sb2-team/iot-tag/-/releases/version-MEEpaper2024)**
-* Date : Apr. 2024
+**Release : [version-MEEpaper2024](https://github.com/ocean-monitoring-gateway/iot-tag/releases/tag/v1.0.0)**
 * Version release for experimentations in Europa, Mayotte, Aldabra and Reunion (2021-2022).
-* Associated publication: *paper MEE on going,2024* (DOI: link)
+* Associated publication: *publication in MEE on going (2025)*
 
 ## Repository Content
 
@@ -29,7 +26,7 @@ List of code releases that serve for experimentations referencement
 
 ## Related ressources
 
-[Gitlab repository for the IOT tag CAD files](https://gitlab.ifremer.fr/sb2-team/iot-tag-cad-design): CAD files for the electronic board and the 3D-printed housing with associated documentation
+[Repository for the IOT tag CAD files](https://github.com/ocean-monitoring-gateway/iot-tag-cad-design): CAD files for the electronic board and the 3D-printed housing with associated documentation
 
 ---
 *Indian Ocean sea Turtle project (IOT) - Ifremer/CNRS - 2024*
