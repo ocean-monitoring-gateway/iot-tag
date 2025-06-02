@@ -11,7 +11,7 @@ For more info on the device and a detailed code description, visit the **[projec
 
 The active branch is the branch `main`
 
-**Release : [version-MEEpaper2024](https://github.com/ocean-monitoring-gateway/iot-tag/releases/tag/v1.0.0)**
+**Release : [v1.0.0](https://github.com/ocean-monitoring-gateway/iot-tag/releases/tag/v1.0.0)**
 * Version release for experimentations in Europa, Mayotte, Aldabra and Reunion (2021-2022).
 * Associated publication: *publication in MEE on going (2025)*
 
