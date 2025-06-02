@@ -5,7 +5,7 @@
 
 This repository contains the code source run by the IOT trutle tag. 
 
-For more info on the device and a detailed code description, visit the **[project's Wiki documentation](https://gitlab.ifremer.fr/sb2-team/iot-tag/-/wikis/home)**
+More info on the device and a detailed code description in folder docs/
 
 ## Code Release 
 
